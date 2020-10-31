@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/homeworkpragma/p347/Polynomial.cpp
+Polynomial.h
+E:/homeworkpragma/p347/Polynomial.h
+bits/stdc++.h
+-
+
+E:/homeworkpragma/p347/Polynomial.h
+
+E:/homeworkpragma/p347/main.cpp
+bits/stdc++.h
+-
+Polynomial.h
+E:/homeworkpragma/p347/Polynomial.h
+Polynomial.cpp
+E:/homeworkpragma/p347/Polynomial.cpp
+
